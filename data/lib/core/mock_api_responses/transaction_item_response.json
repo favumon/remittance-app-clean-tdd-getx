@@ -1,0 +1,18 @@
+[
+    {
+        "bene_profile_url":"http://someurl.png",
+        "beneficiary_name":"Maria K K",
+        "transaction_ref_id":12345678765432,
+        "payment_mode":{
+            "payment_mode_title":"Bank Transfer",
+            "payment_mode_code":13
+        },
+        "lc_amount":663.0,
+        "lc_code":"QAR",
+        "date_time_of_transaction":"2012-02-27T13:27:00.000",
+        "transaction_status":{ 
+            "transaction_status_title":"Successful", 
+            "transaction_status_code":1
+        }
+    }
+]

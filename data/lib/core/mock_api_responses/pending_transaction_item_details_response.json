@@ -1,0 +1,25 @@
+{
+    "transaction_ref_id":12345676543,
+    "account_number":"98765456789",
+    "beneficiary_name":"Maria K K",
+    "bene_nick_name":"Mar",
+    "agent_name":"Axis Bank",
+    "branch_name":"Ernakulam",
+    "city_name":"Kochi",
+    "country_name":"India",
+    "swift_code":"UVTN0000191928",
+    "date_time_of_transaction":"2012-02-27T13:27:00.000",
+    "transaction_timeout":120,
+    "lc_code":"QAD",
+    "payment_mode":{
+        "payment_mode_title":"Bank Transfer",
+        "payment_mode_code":13
+    },
+    "fund_sent":1200.9,
+    "fund_received":1273654.09,
+    "transaction_status":{ 
+        "transaction_status_title":"In process", 
+        "transaction_status_code":0
+    },
+    "fc_code":"INR"
+}

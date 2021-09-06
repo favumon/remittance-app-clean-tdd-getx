@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "transaction_ref_id":1233455522,
+        "tt_number":"1234565432",
+        "payment_mode":{
+                            "payment_mode_title":"Bank Transfer",
+                            "payment_mode_code":"BT"
+                        },
+        "beneficiary_name":"Akhil",
+        "agent_name":"Axis Bank",
+        "swift_code":"QWE92889000119",
+        "account_no":"1717379817",
+        "date_time_of_transaction":"2012-02-27T13:27:00.000",
+        "fc_amount":12.0,
+        "rate":7.0,
+        "lc_amount":90.0,
+        "commision":9.0,
+        "charges":0.0,
+        "vat":0.0,
+        "discount":0.0,
+        "net_amount":29.0,
+        "transaction_status":{ 
+            "transaction_status_title":"In Process", 
+            "transaction_status_code":0
+        },
+        "transaction_complete_date_time":"2012-02-28T14:50:00.000",
+        "lc_code":"KWD",
+        "read_status":false,
+        "fc_code":"INR",
+        "disbursal_mode":{
+            "disbursal_mode_title":"Cash pickup",
+            "disbursal_mode_code":"CP"
+        }
+    }
+]

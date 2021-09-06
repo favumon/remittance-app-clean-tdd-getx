@@ -1,0 +1,45 @@
+[
+
+    {  
+        "country_name": "UNITED ARAB EMIRATES",
+        "currency_name": "Dirham",
+        "currency_code": "AED",
+        "flag_code": "ae"
+    },
+    {  
+        "country_name": "AFGHANISTHAN",
+        "currency_name": "Afghani",
+        "currency_code": "AFN",
+        "flag_code": "af"
+    },
+    {   
+        "country_name": "ALBANIA",
+        "currency_name": "Lek",
+        "currency_code": "ALL",
+        "flag_code": "al"
+    },
+    {
+        "country_name": "ANGALO",
+        "currency_name": "Kwanza",
+        "currency_code": "AOA",
+        "flag_code": "ao"
+    },
+    {
+        "country_name":"ARGENTINA",
+        "currency_name": "Argentine Peso",
+        "currency_code": "ARS",
+        "flag_code": "as"
+    },
+    {
+        "country_name": "BULGARIA",
+        "currency_name": "Bulgarian Lev",
+        "currency_code": "BGN",
+        "flag_code":"bg"
+    },
+    {
+        "country_name": "BAHARIN",
+        "currency_name": "Baharain Dinar",
+        "currency_code": "BHD",
+        "flag_code": "bh"
+    }
+]
