@@ -1,6 +1,6 @@
 # Remittance App
 
-A new Remittance flutter application
+A Remittance flutter application
 
 Uses GetX as State Management solution
 TDD architecture
